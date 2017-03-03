@@ -1,0 +1,22 @@
+{
+  "name": "todoapp",
+  "version": "1.0.0",
+  "description": "todo app for todo",
+  "main": "index.js",
+  "scripts": {
+    "test": "todo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phutaneVinayak/todoTask.git"
+  },
+  "keywords": [
+    "todoapp"
+  ],
+  "author": "vinayak phutane <vinayak.phutane@raweng.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phutaneVinayak/todoTask/issues"
+  },
+  "homepage": "https://github.com/phutaneVinayak/todoTask#readme"
+}
