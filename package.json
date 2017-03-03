@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "todo app for todo",
   "main": "index.js",
-  "repository": {
+   "repository": {
     "type": "git",
     "url": "git+https://github.com/phutaneVinayak/todoTask.git"
   },
