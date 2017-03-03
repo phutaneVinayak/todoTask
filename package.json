@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "todo app for todo",
   "main": "index.js",
-   "repository": {
+  "scripts": {
+    "test": "npm index"
+  },
+  "repository": {
     "type": "git",
     "url": "git+https://github.com/phutaneVinayak/todoTask.git"
   },
